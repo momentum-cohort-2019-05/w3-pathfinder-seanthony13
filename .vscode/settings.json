@@ -1,0 +1,6 @@
+{
+    "python.linting.pylintEnabled": false,
+    "python.linting.prospectorEnabled": true,
+    "python.linting.enabled": true,
+    "python.pythonPath": "/Users/sarahanthony/.local/share/virtualenvs/w3-pathfinder-seanthony13-W9CHro4X/bin/python"
+}
